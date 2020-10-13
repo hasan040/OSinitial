@@ -1,0 +1,90 @@
+1 has started taking service from serviceman 1 
+1 finished service from serviceman 1
+1 has started taking service from serviceman 2 
+2 has started taking service from serviceman 1 
+2 finished service from serviceman 1
+4 has started taking service from serviceman 1 
+1 finished service from serviceman 2
+1 has started taking service from serviceman 3 
+2 has started taking service from serviceman 2 
+4 finished service from serviceman 1
+2 finished service from serviceman 2
+4 has started taking service from serviceman 2 
+1 finished service from serviceman 3
+1 is paying the bill from counter 2
+2 has started taking service from serviceman 3 
+5 has started taking service from serviceman 1 
+1 has finished paying the bill from counter 2
+2 finished service from serviceman 3
+2 is paying the bill from counter 2
+4 finished service from serviceman 2
+4 has started taking service from serviceman 3 
+5 finished service from serviceman 1
+5 has started taking service from serviceman 2 
+4 finished service from serviceman 3
+4 is paying the bill from counter 1
+2 has finished paying the bill from counter 2
+5 finished service from serviceman 2
+5 has started taking service from serviceman 3 
+1 has departed 
+4 has finished paying the bill from counter 1
+5 finished service from serviceman 3
+4 has departed 
+5 is paying the bill from counter 2
+8 has started taking service from serviceman 1 
+8 finished service from serviceman 1
+8 has started taking service from serviceman 2 
+5 has finished paying the bill from counter 2
+8 finished service from serviceman 2
+8 has started taking service from serviceman 3 
+8 finished service from serviceman 3
+5 has departed 
+8 is paying the bill from counter 2
+2 has departed 
+9 has started taking service from serviceman 1 
+8 has finished paying the bill from counter 2
+9 finished service from serviceman 1
+9 has started taking service from serviceman 2 
+8 has departed 
+9 finished service from serviceman 2
+9 has started taking service from serviceman 3 
+9 finished service from serviceman 3
+9 is paying the bill from counter 2
+3 has started taking service from serviceman 1 
+9 has finished paying the bill from counter 2
+3 finished service from serviceman 1
+3 has started taking service from serviceman 2 
+9 has departed 
+3 finished service from serviceman 2
+3 has started taking service from serviceman 3 
+3 finished service from serviceman 3
+3 is paying the bill from counter 2
+7 has started taking service from serviceman 1 
+3 has finished paying the bill from counter 2
+7 finished service from serviceman 1
+3 has departed 
+7 has started taking service from serviceman 2 
+7 finished service from serviceman 2
+7 has started taking service from serviceman 3 
+7 finished service from serviceman 3
+7 is paying the bill from counter 2
+10 has started taking service from serviceman 1 
+7 has finished paying the bill from counter 2
+10 finished service from serviceman 1
+10 has started taking service from serviceman 2 
+7 has departed 
+10 finished service from serviceman 2
+10 has started taking service from serviceman 3 
+10 finished service from serviceman 3
+10 is paying the bill from counter 2
+6 has started taking service from serviceman 1 
+10 has finished paying the bill from counter 2
+6 finished service from serviceman 1
+6 has started taking service from serviceman 2 
+6 finished service from serviceman 2
+6 has started taking service from serviceman 3 
+10 has departed 
+6 finished service from serviceman 3
+6 is paying the bill from counter 2
+6 has finished paying the bill from counter 2
+6 has departed 
